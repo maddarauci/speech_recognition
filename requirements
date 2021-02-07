@@ -1,0 +1,2 @@
+pyaudio --> pip install PyAudio
+speech=recognition --> pip install SpeechRecognition
